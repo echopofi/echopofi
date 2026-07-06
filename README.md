@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm A'aron Pofi 👋
 
-<!--
-**echopofi/echopofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Engineer building modern web applications with Next.js, FastAPI, and TypeScript.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- FastAPI
+- Node.js
+- Express
+- MySQL
+- Tailwind CSS
+
+## 🌟 Featured Projects
+
+### 📚 Lumen Book Store (https://github.com/echopofi/Lumen-Book-Store)
+A modern online bookstore showcasing Next.js App Router, SSR, ISR, SSG, and Server Actions.
+
+### 💼 DigiExp (https://github.com/echopofi/DIGI_EXP)
+A digital solutions platform currently under active development.
+
+### 🐄 Livestock Parturition Tracker (https://github.com/echopofi/Livestock-Paternity-Tracker-)
+An application for tracking livestock pregnancies and expected delivery dates.
+
+## 📖 Currently Learning
+
+- Software Architecture
+- System Design
+- Advanced Next.js
+- Backend Engineering
+
+## 📫 Contact
+
+- Email: bosspofii@gmail.com
+- LinkedIn: www.linkedin.com/in/aaronpofi
